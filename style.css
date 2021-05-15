@@ -57,7 +57,7 @@ h2 {
 .boxed {
   background-color: #ffffe6;
   margin: 20px auto;
-  width: 900px;
+  max-width: 900px;
   padding: 30px;
   border: 50px;
   text-align: center;
